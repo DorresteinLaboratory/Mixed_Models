@@ -1,2 +1,2 @@
 ##### Mixed Models
-These are notebooks the accompanying material for the [publication]().
+These notebooks are the accompanying material for the [publication]().
